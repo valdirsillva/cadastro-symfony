@@ -58,11 +58,7 @@ class UsuarioController extends AbstractController
                 "fulano" => $data['nome']
             ]);
 
-        }
-
-
-        
+        }        
          
-        return new Response("implementar  gravacao no banco de dados");
      }
 }
